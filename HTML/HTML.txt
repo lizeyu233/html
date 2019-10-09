@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>HTML演示</title>
+</head>
+<body bgcolcr=''rgb(255,255,150)'' text=''rgb(200,0,0)''>
+	<h2>热烈庆祝中华人民共和国成立70周年</h2>
+	<hr color=''blue''>
+	泱泱大国 自强不息！
+<html>
